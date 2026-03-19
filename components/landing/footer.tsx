@@ -13,7 +13,7 @@ export function Footer() {
 
           {/* Links */}
           <nav className="flex items-center gap-6 text-sm text-muted-foreground">
-            <a href="#" className="hover:text-primary transition-colors">
+            <a href="/privacy" className="hover:text-primary transition-colors">
               プライバシーポリシー
             </a>
             
