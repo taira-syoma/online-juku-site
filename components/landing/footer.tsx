@@ -16,9 +16,7 @@ export function Footer() {
             <a href="#" className="hover:text-primary transition-colors">
               プライバシーポリシー
             </a>
-            <a href="#" className="hover:text-primary transition-colors">
-              特定商取引法に基づく表記
-            </a>
+            
           </nav>
 
           {/* Copyright */}
