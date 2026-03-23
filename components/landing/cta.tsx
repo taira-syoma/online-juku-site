@@ -70,7 +70,7 @@ export function CTA() {
             <Button 
               size="lg"
               className="bg-accent hover:bg-accent/90 text-primary font-semibold px-10 py-7 text-lg shadow-lg hover:shadow-xl transition-all duration-300"
-              onClick={() => window.open("https://calendly.com", "_blank")}
+              onClick={() => window.open("https://lin.ee/Y1a7xYm", "_blank")}
             >
               無料相談を予約する
               <ArrowRight className="ml-2 w-5 h-5" />
