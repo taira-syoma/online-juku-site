@@ -4,17 +4,17 @@ import { Card, CardContent } from "@/components/ui/card";
 const achievements = [
   {
     icon: Users,
-    value: "50+",
+    value: "1",
     label: "指導実績",
   },
   {
     icon: Trophy,
-    value: "90%",
+    value: "100%",
     label: "目標達成率",
   },
   {
     icon: BookOpen,
-    value: "3年+",
+    value: "1年+",
     label: "指導経験",
   },
 ];
