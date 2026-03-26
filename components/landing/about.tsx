@@ -86,7 +86,7 @@ export function About() {
                 </p>
                 
                 <p>
-                  塾講師・家庭教師として多数の生徒を指導し、<span className="font-semibold text-primary">偏差値10以上アップの逆転合格</span>を数多くサポートしてきました。
+                  塾講師・家庭教師として生徒を指導し、<span className="font-semibold text-primary">偏差値10以上アップの逆転合格</span>をサポートしてきました。
                 </p>
 
                 <p className="text-muted-foreground">
